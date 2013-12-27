@@ -1,0 +1,6 @@
+name: raytraced
+description: A simple ray tracer in dart
+dependencies:
+  browser: any
+  dart_config: any
+  vector_math: any
